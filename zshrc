@@ -8,6 +8,8 @@ function dotupdate() {
     upgrade_oh_my_zsh
 }
 
+alias tmux="TERM=screen-256color-bce tmux"
+
 # Path to your oh-my-zsh configuration.
 ZSH=$HOME/.oh-my-zsh
 
