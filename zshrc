@@ -48,3 +48,5 @@ if [[ -f "$HOME/.zshlocal" ]]; then
 fi
 
 source $ZSH/oh-my-zsh.sh
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
