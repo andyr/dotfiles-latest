@@ -4,6 +4,9 @@ source ~/.vim/vundle.vim
 
 syntax enable               "syntax highlighting
 
+set ffs=unix,dos            "line endings
+set ff=unix                 "line endings
+
 set bg=dark                 "for dark background consoles
 
 set tabstop=4               "tab = 4 spaces

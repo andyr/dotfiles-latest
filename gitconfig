@@ -25,10 +25,10 @@
     remote = green
 
 [color "diff"]
-    meta = yellow bold
-    frag = magenta bold
-    old = red bold
-    new = green bold
+    #meta = yellow bold
+    #frag = magenta bold
+    #old = red bold
+    #new = green bold
 
 [color "status"]
     added = green
@@ -61,6 +61,7 @@
     di = !git df --ignore-space-change
     ds = !git df --stat
     dsp = !git ds -p
+    dcf = !git diff --name-only
 
     ls = ls-files   # git ls: list files in this repo
     ign = ls-files -o -i --exclude-standard     # git ign: list ignored files
@@ -152,3 +153,5 @@
     # combine shell aliases and use those to define workflows
 
 
+[core]
+	pager = less -X -F
