@@ -1,0 +1,89 @@
+total 1264
+drwx------+  88 anirudd1  staff    2992 Sep 23 12:33 .
+drwxr-xr-x    6 root      admin     204 Jan 19  2015 ..
+-rw-------    1 anirudd1  staff       3 Oct 29  2014 .CFUserTextEncoding
+-rw-r--r--@   1 anirudd1  staff   24580 Sep 23 12:10 .DS_Store
+drwx------    2 anirudd1  staff      68 Sep 16 13:16 .Trash
+lrwxr-xr-x    1 anirudd1  staff      53 Nov  1  2014 .ackrc -> /Users/anirudd1/data/code/github/dotfiles-wadey/ackrc
+-rw-r--r--@   1 anirudd1  staff     598 Aug 21 17:14 .anyconnect
+-rw-r--r--@   1 anirudd1  staff      41 Aug 19 12:15 .anyconnect_fingerprint
+drwxr-xr-x    4 anirudd1  staff     136 Jul 27 15:55 .aws
+-rw-------    1 anirudd1  staff    2125 Sep 23 12:13 .bash_history
+-rw-r--r--    1 anirudd1  staff     200 Nov  1  2014 .bash_profile
+-rw-r--r--    1 anirudd1  staff      68 Nov  1  2014 .bashrc
+drwxr-xr-x    5 anirudd1  staff     170 Nov 21  2014 .cache
+drwxr-xr-x    6 anirudd1  staff     204 Jul 17 14:33 .calypso-deps-cache
+drwxr-xr-x    3 anirudd1  staff     102 Sep 15 12:29 .cisco
+drwx------    3 anirudd1  staff     102 Nov  3  2014 .config
+lrwxr-xr-x    1 anirudd1  staff      53 Nov  1  2014 .ctags -> /Users/anirudd1/data/code/github/dotfiles-wadey/ctags
+drwx------    3 anirudd1  staff     102 Jul 28 11:19 .cups
+lrwxr-xr-x    1 anirudd1  staff      30 Nov  1  2014 .dotfiles -> /Users/anirudd1/dotfiles-wadey
+drwxr-xr-x    4 anirudd1  staff     136 Nov  3  2014 .gem
+-rw-r--r--    1 anirudd1  staff      19 Feb  4  2015 .gemrc
+lrwxr-xr-x    1 anirudd1  staff      57 Nov  1  2014 .gitconfig -> /Users/anirudd1/data/code/github/dotfiles-wadey/gitconfig
+lrwxr-xr-x    1 anirudd1  staff      57 Nov  1  2014 .gitignore -> /Users/anirudd1/data/code/github/dotfiles-wadey/gitignore
+-rw-r--r--    1 anirudd1  staff    3256 Dec  9  2014 .gitsh_history
+lrwxr-xr-x    1 anirudd1  staff      54 Nov  1  2014 .gvimrc -> /Users/anirudd1/data/code/github/dotfiles-wadey/gvimrc
+drwxr-xr-x    5 anirudd1  staff     170 Dec 10  2014 .ivy2
+lrwxr-xr-x    1 anirudd1  staff      56 Nov  1  2014 .jshintrc -> /Users/anirudd1/data/code/github/dotfiles-wadey/jshintrc
+-rw-------    1 anirudd1  staff      90 Aug  7 14:20 .lesshst
+drwxr-xr-x    3 anirudd1  staff     102 Nov  3  2014 .local
+drwxr-xr-x    4 anirudd1  staff     136 Jul 23 15:16 .node-gyp
+drwxr-xr-x  637 anirudd1  staff   21658 Aug 19 12:59 .npm
+-rw-------    1 anirudd1  staff      27 Nov  3  2014 .npmrc
+drwxr-xr-x   15 anirudd1  staff     510 Nov  1  2014 .oh-my-zsh
+-rw-r--r--    1 anirudd1  staff      68 Nov  1  2014 .profile
+-rw-------    1 anirudd1  staff    1024 Aug 19 12:15 .rnd
+drwxr-xr-x   30 anirudd1  staff    1020 Nov  1  2014 .rvm
+-r-xr-xr-x    1 anirudd1  wheel   11849 Dec 14  2011 .s3curl-exec
+drwxr-xr-x    4 anirudd1  staff     136 Dec 10  2014 .sbt
+drwxr-xr-x    3 anirudd1  staff     102 Nov  3  2014 .screen
+lrwxr-xr-x    1 anirudd1  staff      56 Nov  1  2014 .screenrc -> /Users/anirudd1/data/code/github/dotfiles-wadey/screenrc
+-rw-------    1 anirudd1  staff     281 Mar 19  2015 .sqlite_history
+drwx------    6 anirudd1  staff     204 Sep 21 10:57 .ssh
+-rw-r--r--    1 anirudd1  staff    2084 Jul  7 16:29 .tmux.conf
+drwxr-xr-x    9 anirudd1  staff     306 Sep 22 15:04 .vagrant.d
+lrwxr-xr-x    1 anirudd1  staff      51 Nov  1  2014 .vim -> /Users/anirudd1/data/code/github/dotfiles-wadey/vim
+-rw-r--r--    1 anirudd1  staff   23421 Sep 23 11:54 .viminfo
+-rw-r--r--    1 anirudd1  staff       0 Sep 10 19:07 .viminfo.tmp
+-rw-r--r--    1 anirudd1  staff       0 Jun  5 14:15 .viminfw.tmp
+-rw-r--r--    1 anirudd1  staff    4096 Jun  5 14:15 .viminfy.tmp
+lrwxr-xr-x    1 anirudd1  staff      53 Nov  1  2014 .vimrc -> /Users/anirudd1/data/code/github/dotfiles-wadey/vimrc
+drwxr-xr-x    2 anirudd1  staff      68 Nov  1  2014 .vimundo
+-rw-r--r--@   1 anirudd1  staff      41 Oct 29  2014 .wifi_fingerprint
+-rw-r--r--    1 anirudd1  staff   35379 Aug 17 13:58 .zcompdump-anirudd1-mac02-5.0.2
+-rw-r--r--    1 anirudd1  staff     118 Nov  1  2014 .zlogin
+lrwxr-xr-x    1 anirudd1  staff      51 Nov  1  2014 .zsh -> /Users/anirudd1/data/code/github/dotfiles-wadey/zsh
+-rw-------    1 anirudd1  staff  327829 Sep 23 12:33 .zsh_history
+lrwxr-xr-x    1 anirudd1  staff      53 Nov  1  2014 .zshrc -> /Users/anirudd1/data/code/github/dotfiles-wadey/zshrc
+drwxr-xr-x   12 anirudd1  staff     408 Aug 25 08:53 Applications
+drwxr-xr-x@   4 anirudd1  staff     136 Oct 30  2014 Applications (Parallels)
+drwx------+  31 anirudd1  staff    1054 Sep 21 15:06 Desktop
+drwx------+  16 anirudd1  staff     544 Aug 23 14:21 Documents
+drwx------+  45 anirudd1  staff    1530 Sep 23 12:09 Downloads
+drwx------@  50 anirudd1  staff    1700 Jul 20 15:29 Library
+drwx------+   5 anirudd1  staff     170 Oct 30  2014 Movies
+drwx------+   5 anirudd1  staff     170 Oct 30  2014 Music
+drwx------+   7 anirudd1  staff     238 Feb 18  2015 Pictures
+drwx------+   5 anirudd1  staff     170 Oct 29  2014 Public
+drwx------    3 anirudd1  staff     102 Sep 18 11:48 VirtualBox VMs
+-rw-r--r--    1 anirudd1  staff     682 Dec  2  2014 ajax.js
+drwxr-xr-x    3 anirudd1  staff     102 Oct 31  2014 backups
+lrwxr-xr-x    1 anirudd1  staff      35 Jul 27 15:59 code -> /Users/anirudd1/data/code/localdev/
+drwxr-xr-x    4 anirudd1  staff     136 Nov 26  2014 data
+lrwxr-xr-x    1 anirudd1  staff      47 Nov  3  2014 dotfiles-wadey -> /Users/anirudd1/data/code/github/dotfiles-wadey
+drwxr-xr-x    3 anirudd1  staff     102 Oct 31  2014 examples
+lrwxr-xr-x    1 anirudd1  staff      33 Nov  1  2014 github -> /Users/anirudd1/data/code/github/
+-rw-r--r--    1 anirudd1  staff   47296 Apr  2 10:21 hs_err_pid83359.log
+lrwxr-xr-x    1 anirudd1  staff      36 Jul 24 12:23 iodocs -> /Users/anirudd1/data/code/iodocs-wtf
+lrwxr-xr-x    1 anirudd1  staff      33 Nov 21  2014 ioproxy -> /Users/anirudd1/data/code/ioproxy
+lrwxr-xr-x    1 anirudd1  staff      34 Jul 24 15:11 localdev -> /Users/anirudd1/data/code/localdev
+-rw-r--r--@   1 anirudd1  staff       0 Nov  7  2014 mediastack_dbg_output.txt
+-rw-r--r--    1 anirudd1  staff    1622 Feb 24  2015 meeting-notes-2015-02-24.md
+drwxr-xr-x    2 anirudd1  staff      68 Nov 20  2014 notes
+drwxr-xr-x    6 anirudd1  staff     204 Jul 23 15:03 npm
+lrwxr-xr-x    1 anirudd1  staff      29 Nov 12  2014 rai -> /Users/anirudd1/data/code/rai
+lrwxr-xr-x    1 anirudd1  staff      23 Jun 11 14:22 refapi -> data/code/reference-api
+-rw-r--r--    1 anirudd1  staff    1398 Jan 20  2015 testdev.js
+drwxr-xr-x    5 anirudd1  staff     170 Mar 12  2015 tmp
+lrwxr-xr-x    1 anirudd1  staff      39 Nov 21  2014 yeoman-iodocs -> /Users/anirudd1/data/code/yeoman-iodocs
